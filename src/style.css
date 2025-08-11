@@ -1,5 +1,24 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background: white;
+    text-align: center;
+}
+button {
+    margin-top: 20px;
+    background-color: #95bd97;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 15px;
+    border-radius: 30%;
+    font-size: 18px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #447247;
+    color: white;
 }
