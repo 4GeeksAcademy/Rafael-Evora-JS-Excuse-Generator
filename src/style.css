@@ -10,7 +10,7 @@ body{
 }
 button {
     margin-top: 20px;
-    background-color: #95bd97;
+    background-color: #808080;
     color: rgb(0, 0, 0);
     border: none;
     padding: 15px;
@@ -19,6 +19,6 @@ button {
     cursor: pointer;
 }
 button:hover {
-    background-color: #447247;
+    background-color: #414141;
     color: white;
 }
